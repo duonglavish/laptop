@@ -27,9 +27,11 @@
     "baseUrl": ".",
     "paths": {
       "@/components/*": ["components/*"],
+      "@/components": ["components"],
       "@/app/*": ["app/*"],
       "@/image/*": ["public/image/*"],
       "@/assets/*": ["assets/*"],
+      "@/styles/*": ["styles/*"],
     }
   },
   "include": [
